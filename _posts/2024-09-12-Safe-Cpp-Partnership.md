@@ -28,9 +28,9 @@ and efficient, while preserving the language's performance and flexibility.
 
 The Safe Standard Library is a key component of the Safe C++ Extensions proposal.
 This extensive library addition will provide developers with robust, memory-safe
-implementations of essential data structures and algorithms. By integrating these
-components into the C++ Standard Library, we can ensure that new code is written
-with safety in mind from the outset.
+implementations of essential data structures and algorithms. By integrating
+these= components into the C++ Standard Library, we can ensure that new code is
+written with safety in mind from the outset.
 
 The C++ Alliance and Sean Baxter are seeking feedback from developers, researchers,
 and other stakeholders on the Safe C++ Extensions proposal. This collaborative
